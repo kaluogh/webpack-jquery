@@ -1,13 +1,13 @@
 {
-  "name": "webpack-template",
-  "version": "2.0.0",
+  "name": "webpack-jquery-template",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --content-base ./ --open --inline --hot --compress --config ./webpack-dev.config.js",
     "build": "webpack --progress --hide-modules --config ./webpack.config.js"
   },
-  "author": "jeromehan",
+  "author": "kaluo",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
