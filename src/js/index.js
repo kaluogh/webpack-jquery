@@ -2,6 +2,7 @@
 var $ = require("jquery");
 var _=require('_')
 require('commonCss');
+require('bootstrap');
 require('../css/index.scss');
 require('@/components/header/header.js')//引入header组件
 require('@/components/footer/footer.js')//引入footer组件

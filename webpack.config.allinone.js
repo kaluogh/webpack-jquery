@@ -168,7 +168,7 @@ module.exports = function(options){
             alias:{
               "_":"js/lib/loadsh.js",
               "zepto": "js/lib/zepto.js",
-              "jquery": "js/lib/jquery-1.12.4.js",
+              "jquery": "js/lib/jquery-v3.3.js",
               'common':'js/lib/common.js',
               "commonCss":"css/common.css",
               '@':path.join(__dirname,'src')
